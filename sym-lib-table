@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mpu-6050-Sunshine")(type "KiCad")(uri "${KIPRJMOD}/mpu-6050-Sunshine.kicad_sym")(options "")(descr ""))
+)
